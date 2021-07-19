@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+   background-color:yellow;
+
+  }
+
+p{
+  background-color:green
+}
+div{
+  background-color:lightblue;
+}
+</style>
+<body>
+<h1> my first background color</h1>
+
+<div>
+this paragraph is a new color .
+<p> p for paragraph </p>
+we are still in the element
+</body>
+</html>

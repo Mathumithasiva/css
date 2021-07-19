@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet"  href="bootstrap/css/bootstrap.mint.css">
+<body>
+  <table>
+    <tr>
+      <th> School</th>
+      <th> Number Of Students</th>
+      <th> District</th.
+    </th>
+    <tr>
+       <td>Jaffna Hindu College</td>
+       <td>3460</td>
+       <td>Jaffna</td>
+    </tr>
+    <tr>
+       <td> Jaffna Hindu Ladies College</td>
+       <td>2245</td>
+       <td>Jaffna</td>
+    </tr>
+    <tr>
+      <td>Vembadi Girls High SChool</td>
+      <td>3245</td>
+      <td>Jaffna</td>
+    </tr>
+    <tr>
+      <td>colombo Royal College </td>
+      <td>7654</td>
+      <td>Colombo</td>
+  </tr>
+  <tr>
+     <td>killinochi Maga Vidiyalayam </td>
+      <td> 2312</td>
+      <td>Killinochi</td>
+    </tr>
+    <tr>
+       <td>Jaffna central College</td>
+       <td>  5432</td>
+       <td> Jaffna</td>
+       </tr>
+       </body>
+       </html>

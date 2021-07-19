@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<style>
+p{
+text-align:center;
+color:green;
+}
+</style>
+</head>
+<body>
+<p> simple selector</p>
+<p id="para1"> example.</p>
+<p> order</p>
+</body>
+</html>

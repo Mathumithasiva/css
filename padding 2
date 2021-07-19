@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 4px double red;
+  padding: 30px 50px 40px 70px;
+  background-color: green;
+}
+</style>
+</head>
+<body>
+
+<h2>The padding shorthand property </h2>
+
+<div>hjehdhnnnheknnjwjenjwebww nnsnmdndd dnjsdnjw jdkwjdkwl</div>
+</body>
+</html>

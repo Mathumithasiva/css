@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  background-color: lightbule;
+}
+h1{
+  color:green
+  
+}
+
+
+p{
+  font-style:normal;
+  color:tomato;
+}
+</style>
+<h1> my favorite color</h2>
+  <p>My favorite color is pink. There are a lot of special colors, but the color pink is the color for my personality. The first uniform I got was pink. Before they used to be only white.
+  </p>
+</body>
+</html>
